@@ -73,10 +73,19 @@ Run example:./script4.sh /var/log/syslog error
 
 ## ⚙️ How to Run
 
-Step 1: Give permission  chmod +x script.sh
+1. Navigate to project folder:
+cd oss-audit-24bai10252
 
-Step 2: Run script  ./script.sh
+2. Give execution permission:
+chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
+3. Run scripts:
+
+./script1.sh
+./script2.sh
+./script3.sh
+./script4.sh /var/log/syslog error
+./script5.sh
 ---
 
 ## 📂 Repository Contents
