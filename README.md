@@ -8,9 +8,20 @@ Roll No: 24BAI10252
 ---
 
 ## 💻 Software Chosen
-Python (Open Source Programming Language)
+Python (Open Source Programming Language). It is widely used for web development, data science, automation, and AI.
 
----
+## 🐧 Platform
+
+This project must be run on a Linux system (Ubuntu recommended).
+
+## 📦 Dependencies
+
+- Linux (Ubuntu recommended)
+- Bash shell
+- Python3 installed
+
+Install Python:
+sudo apt install python3
 
 ## 📌 Project Description
 This project is part of the OSS Capstone where we analyze an open-source software (Python) and explore its Linux footprint, ecosystem, and ethical implications.
